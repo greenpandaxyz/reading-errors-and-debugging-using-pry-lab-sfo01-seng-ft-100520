@@ -5,5 +5,4 @@ def snake_it_up(string)
 snake_it_up = 10.to_s * "s" + string
   else
     string
-    binding.pry
   end
