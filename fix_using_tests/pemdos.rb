@@ -6,5 +6,6 @@ snake_it_up = 10 * "s" + string
 binding.pry
   else
     string
+      binding.pry
   end
 end
