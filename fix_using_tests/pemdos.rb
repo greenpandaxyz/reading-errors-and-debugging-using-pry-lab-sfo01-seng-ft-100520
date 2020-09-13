@@ -6,5 +6,6 @@ snake_it_up = 10.to_s * "s" + string
 binding.pry
   else
     string
+    binding.pry
   end
 end
