@@ -6,3 +6,4 @@ snake_it_up = 10.to_s * "s" + string
   else
     string
   end
+end
