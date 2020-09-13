@@ -2,8 +2,7 @@
 
 def snake_it_up(string)
   if string[0] == "s"
-        binding.pry
-    10 * "s" + string
+    10.to_s * "s" + string
   else
     string
     binding.pry
